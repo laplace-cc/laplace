@@ -1,429 +1,531 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://laplacecc.com/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/results/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/consultants/arhan-barve/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/consultants/andrew-lin/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/consultants/shaunak-buche/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/consultants/vishwa-rajan/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/consultants/soneesh-kothagundla/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-write-common-app-essay/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/when-to-start-college-prep/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-traditional-consultants/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-win-conrad-challenge/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/nsli-y-application-tips/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-win-coolidge-scholarship/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-1600-sat/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-qualify-for-aime/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-become-coca-cola-scholar/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-win-diamond-challenge/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/princeton-prize-race-relations-tips/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/benjamin-franklin-transatlantic-fellowship/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/regeneron-sts-application-guide/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/genes-in-space-competition-tips/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/high-school-research-experience/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-build-extracurriculars/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/stanford-likely-letter-explained/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-crimson-education/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-collegevine/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-traditional-college-counselor/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-prepory/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-ivywise/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/laplace-vs-khan-academy/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/new-york/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/los-angeles/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/chicago/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/houston/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/atlanta/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/dallas/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/boston/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/washington-dc/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-stanford/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-harvard/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-mit/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-princeton/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-yale/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-columbia/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/pricing/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/scholarships/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-dartmouth/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-cornell/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-johns-hopkins/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-upenn/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-duke/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-northwestern/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-brown/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/refer/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/privacy/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-uchicago/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-caltech/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-vanderbilt/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-rice/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-notre-dame/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-georgetown/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-uc-berkeley/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-ucla/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-nyu/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-get-into-carnegie-mellon/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/early-decision-vs-early-action/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-write-supplemental-essays/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-ask-for-letters-of-recommendation/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-make-a-college-list/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laplacecc.com/blog/how-to-qualify-for-usaco/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<url>
+<loc>https://laplacecc.com/</loc>
+<lastmod>2026-07-30T12:40:25.671Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/atlanta/</loc>
+<lastmod>2026-11-09T00:32:58.890Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/</loc>
+<lastmod>2026-11-09T00:32:17.131Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/benjamin-franklin-transatlantic-fellowship/</loc>
+<lastmod>2026-06-05T04:05:09.844Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/early-decision-vs-early-action/</loc>
+<lastmod>2026-06-08T16:51:06.362Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/genes-in-space-competition-tips/</loc>
+<lastmod>2026-06-05T04:05:09.121Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/high-school-research-experience/</loc>
+<lastmod>2026-06-05T04:05:09.213Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-ask-for-letters-of-recommendation/</loc>
+<lastmod>2026-06-08T16:51:06.367Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-become-coca-cola-scholar/</loc>
+<lastmod>2026-06-05T04:05:09.153Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-build-extracurriculars/</loc>
+<lastmod>2026-06-05T04:05:09.403Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-1600-sat/</loc>
+<lastmod>2026-06-05T04:05:09.967Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-brown/</loc>
+<lastmod>2026-06-06T18:45:33.389Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-caltech/</loc>
+<lastmod>2026-06-08T16:51:06.357Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-carnegie-mellon/</loc>
+<lastmod>2026-06-08T16:51:06.362Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-columbia/</loc>
+<lastmod>2026-06-05T04:05:09.091Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-cornell/</loc>
+<lastmod>2026-06-06T18:43:20.058Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-dartmouth/</loc>
+<lastmod>2026-06-06T18:42:05.146Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-duke/</loc>
+<lastmod>2026-06-06T18:43:04.691Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-georgetown/</loc>
+<lastmod>2026-06-08T16:51:06.360Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-harvard/</loc>
+<lastmod>2026-06-05T04:05:10.103Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-johns-hopkins/</loc>
+<lastmod>2026-06-06T18:44:37.528Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-mit/</loc>
+<lastmod>2026-06-05T04:05:09.458Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-northwestern/</loc>
+<lastmod>2026-06-06T18:44:19.894Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-notre-dame/</loc>
+<lastmod>2026-06-08T16:51:06.357Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-nyu/</loc>
+<lastmod>2026-06-08T16:51:06.361Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-princeton/</loc>
+<lastmod>2026-06-05T04:05:10.073Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-rice/</loc>
+<lastmod>2026-06-08T16:51:06.357Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-stanford/</loc>
+<lastmod>2026-07-30T12:39:02.571Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-uc-berkeley/</loc>
+<lastmod>2026-06-08T16:51:06.360Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-uchicago/</loc>
+<lastmod>2026-06-08T16:51:06.355Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-ucla/</loc>
+<lastmod>2026-06-08T16:51:06.360Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-upenn/</loc>
+<lastmod>2026-06-06T18:41:56.838Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-vanderbilt/</loc>
+<lastmod>2026-06-08T16:51:06.357Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-yale/</loc>
+<lastmod>2026-06-05T04:05:10.165Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-make-a-college-list/</loc>
+<lastmod>2026-06-08T16:51:06.368Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-qualify-for-aime/</loc>
+<lastmod>2026-06-05T04:05:09.431Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-qualify-for-usaco/</loc>
+<lastmod>2026-06-08T16:51:06.370Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-win-conrad-challenge/</loc>
+<lastmod>2026-06-05T04:05:09.579Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-win-coolidge-scholarship/</loc>
+<lastmod>2026-07-30T12:39:14.446Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-win-diamond-challenge/</loc>
+<lastmod>2026-06-05T04:05:09.626Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-write-common-app-essay/</loc>
+<lastmod>2026-07-30T12:38:55.226Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-write-supplemental-essays/</loc>
+<lastmod>2026-06-08T16:51:06.362Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-collegevine/</loc>
+<lastmod>2026-06-05T04:05:09.514Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-crimson-education/</loc>
+<lastmod>2026-06-05T04:05:10.007Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-ivywise/</loc>
+<lastmod>2026-06-05T04:05:09.486Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-khan-academy/</loc>
+<lastmod>2026-06-05T04:05:10.194Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-prepory/</loc>
+<lastmod>2026-06-05T04:05:09.744Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-traditional-college-counselor/</loc>
+<lastmod>2026-06-05T04:05:09.779Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/laplace-vs-traditional-consultants/</loc>
+<lastmod>2026-06-05T04:05:10.134Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/nsli-y-application-tips/</loc>
+<lastmod>2026-06-05T04:05:09.274Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/princeton-prize-race-relations-tips/</loc>
+<lastmod>2026-06-05T04:05:09.672Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/regeneron-sts-application-guide/</loc>
+<lastmod>2026-06-05T04:05:10.042Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/stanford-likely-letter-explained/</loc>
+<lastmod>2026-06-05T04:05:09.925Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/when-to-start-college-prep/</loc>
+<lastmod>2026-06-05T04:05:09.547Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/boston/</loc>
+<lastmod>2026-06-05T04:05:08.891Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/chicago/</loc>
+<lastmod>2026-06-05T04:05:08.701Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/consultants/andrew-lin/</loc>
+<lastmod>2026-06-15T00:21:34.488Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/consultants/arhan-barve/</loc>
+<lastmod>2026-06-15T00:21:20.350Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/consultants/shaunak-buche/</loc>
+<lastmod>2026-06-01T03:48:40.162Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/consultants/soneesh-kothagundla/</loc>
+<lastmod>2026-06-06T18:36:18.781Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/consultants/vishwa-rajan/</loc>
+<lastmod>2026-06-01T03:57:27.660Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/dallas/</loc>
+<lastmod>2026-06-05T04:05:08.955Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/houston/</loc>
+<lastmod>2026-06-05T04:05:08.773Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/los-angeles/</loc>
+<lastmod>2026-06-05T04:05:08.986Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/new-york/</loc>
+<lastmod>2026-06-05T04:05:08.738Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/pricing/</loc>
+<lastmod>2026-06-06T18:41:28.958Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/privacy/</loc>
+<lastmod>2026-06-09T21:57:19.426Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/refer/</loc>
+<lastmod>2026-06-09T21:57:19.430Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/results/</loc>
+<lastmod>2026-06-05T04:05:08.858Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/scholarships/</loc>
+<lastmod>2026-07-30T12:38:47.694Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/washington-dc/</loc>
+<lastmod>2026-06-05T04:05:09.061Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-georgia-tech/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-uga/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-into-emory/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/hope-vs-zell-miller-scholarship/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/georgia-dual-enrollment-guide/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/georgia-governors-honors-program-guide/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-much-does-college-consulting-cost/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/is-college-consulting-worth-it/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-choose-a-college-admissions-consultant/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/deferred-from-early-decision-what-to-do/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-write-why-this-college-essay/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/css-profile-vs-fafsa/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/regular-decision-application-checklist/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-get-off-the-waitlist/</loc>
+<lastmod>2026-11-04T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-many-ap-classes-should-i-take/</loc>
+<lastmod>2026-11-08T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/how-to-write-common-app-activities-list/</loc>
+<lastmod>2026-11-08T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laplacecc.com/blog/junior-year-college-planning-timeline/</loc>
+<lastmod>2026-11-08T12:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
